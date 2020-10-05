@@ -134,4 +134,5 @@ Thanks to globalzon to have released the initial Yaamp source code.
 You can support this project by donating to `tran` :
 
 BTC : 12gMQSvZkPNy9QSUT25f95uZD5kb1h4R9X
+
 USDT (TRC20): TKiqTZ6JWZziLcg4arQSJdXyjZ9bc5nfyM
